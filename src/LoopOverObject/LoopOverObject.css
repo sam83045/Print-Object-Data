@@ -1,0 +1,8 @@
+.nestedWrapper {
+  margin-left: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.nestedWrapper div {
+  border-left: 1px solid #ccc;
+}
