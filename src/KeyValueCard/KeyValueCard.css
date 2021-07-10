@@ -1,11 +1,4 @@
-.singleKeyValue .clsKey,.singleKeyValue .clsValue {
+.singleKeyValue .clsKey,
+.singleKeyValue .clsValue {
   margin: 0.5rem;
-}
-
-.clsKey{
- background-color: rgb(157, 216, 201);
-}
-
-.clsValue{
-
 }
